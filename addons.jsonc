@@ -1,0 +1,14 @@
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "name": "gdlib-editorui",
+  "description": "A simpler editor interface for the most common operations",
+  "cache": "../.addons",
+  "addons": {
+    "gdlibnode": {
+      "url": "https://github.com/TravelSizedLions/gdlibnode.git",
+      "source": "remote",
+      "subfolder": "addons/gdlibnode",
+      "checkout": "dev"
+    }
+  }
+}
