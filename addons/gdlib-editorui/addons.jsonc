@@ -10,6 +10,12 @@
       "source": "remote",
       "subfolder": "addons/gdlibnode",
       "checkout": "v0.0.3"
+    },
+    "test-drive": {
+      "url": "https://github.com/TravelSizedLions/test-drive.git",
+      "source": "remote",
+      "subfolder": "addons/test-drive",
+      "checkout": "v0.0.3"
     }
   }
 }

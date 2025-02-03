@@ -10,7 +10,7 @@ var main_screen: VBoxContainer:
     return __main_screen
     
 var __editor_base_control: Control
-var editor: Control:
+var editor:
   get:
     if not __editor_base_control:
       __editor_base_control = __editor.get_base_control()
