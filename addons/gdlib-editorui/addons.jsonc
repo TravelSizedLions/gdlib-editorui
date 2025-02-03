@@ -10,5 +10,6 @@
       "subfolder": "addons/gdlibnode",
       "checkout": "dev"
     }
-  }
+  },
+  "version": "1"
 }
