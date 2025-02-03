@@ -9,7 +9,7 @@
       "url": "https://github.com/TravelSizedLions/gdlibnode.git",
       "source": "remote",
       "subfolder": "addons/gdlibnode",
-      "checkout": "dev"
+      "checkout": "v0.0.3"
     }
   }
 }
