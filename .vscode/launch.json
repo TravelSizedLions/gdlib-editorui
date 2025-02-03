@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"configurations": [
+		{
+			"name": "Test Drive - All",
+			"type": "godot",
+			"request": "launch",
+			"additional_options": "--single-threaded-scene --headless -s addons/test-drive/src/cli/td.gd"
+		},
+		{
+			"name": "Test Drive - Current File",
+			"type": "godot",
+			"request": "launch",
+			"additional_options": "--single-threaded-scene --headless -s addons/test-drive/src/cli/td.gd --file ${file}"
+		}
+	]
+}

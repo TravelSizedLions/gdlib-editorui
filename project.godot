@@ -13,3 +13,11 @@ config_version=5
 config/name="gdutil-editorui"
 run/main_scene="uid://bc3a5lv8ry5hg"
 config/features=PackedStringArray("4.4", "Forward Plus")
+
+[autoload]
+
+TreeAccess="*res://addons/tree-access/src/tree_access.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/tree-access/plugin.cfg")
