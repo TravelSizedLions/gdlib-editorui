@@ -6,16 +6,16 @@
   "cache": "../.addons",
   "addons": {
     "gdlibnode": {
-      "url": "https://github.com/TravelSizedLions/gdlibnode.git",
-      "source": "remote",
+      "url": "../gdlibnode",
+      "source": "local",
       "subfolder": "addons/gdlibnode",
-      "checkout": "v0.0.3"
+      "checkout": "dev"
     },
     "test-drive": {
-      "url": "https://github.com/TravelSizedLions/test-drive.git",
-      "source": "remote",
+      "url": "../test-drive",
+      "source": "local",
       "subfolder": "addons/test-drive",
-      "checkout": "v0.0.3"
+      "checkout": "dev"
     }
   }
 }
